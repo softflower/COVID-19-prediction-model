@@ -1,7 +1,5 @@
 import scipy.integrate as spi
 import numpy as np
-import scipy.integrate as spi
-import numpy as np
 import pylab as pl
  
 beta=1.4247
