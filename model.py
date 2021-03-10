@@ -5,7 +5,7 @@ import numpy as np
 import pylab as pl
  
 beta=1.4247
-gamma=0.14286
+gamma=0.0714
 TS=1.0
 ND=70.0
 S0=1-1e-6
